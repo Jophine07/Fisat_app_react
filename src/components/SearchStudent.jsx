@@ -50,6 +50,6 @@ const SearchStudent = () => {
 
     </div>
   )
+  
 }
-
 export default SearchStudent
